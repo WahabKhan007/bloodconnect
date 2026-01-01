@@ -88,7 +88,7 @@ Access the live project here:
 ## 📣 Contact
 
 **Author:** Abdul Wahab Khan  
-**Email:** wahab@example.com (replace with your email)  
+**Email:** offxwahab07@gmail.com  
 **Portfolio / LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdul-wahab-khan-profile/)
 
 ---
